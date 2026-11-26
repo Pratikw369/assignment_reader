@@ -1,0 +1,9 @@
+dark_mode: true
+engine: piper
+voice_dir: /home/prot/assignment-reader/voices
+chunk_size: 5
+font_size: 17
+speech_speed: 117
+word_gap_ms: 300
+chunk_gap_ms: 12050
+loop_after_finish: false
